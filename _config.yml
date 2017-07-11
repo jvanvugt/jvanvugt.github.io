@@ -32,10 +32,10 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Joris van Vugt
   location: Location
   social: Around the Web
-  credits: Credits
+  credits: Details
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -43,6 +43,8 @@ social:
     url: https://github.com/jvanvugt
   - title: linkedin
     url: https://www.linkedin.com/in/joris-van-vugt-506571109/
+  - title: envelope
+    url: mailto:mail@jorisvanvugt.com
 
 
 # Postal address (add as many lines as necessary)
