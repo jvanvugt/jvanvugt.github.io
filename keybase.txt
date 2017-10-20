@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/jvanvugt
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jorisvanvugt.com
+  * I am jvanvugt (https://keybase.io/jvanvugt) on keybase.
+  * I have a public key ASB5vKqjSFRcweDT7UKpvQAJEDHE6GsCmdKe0tWxasbwrQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012079bcaaa348545cc1e0d3ed42a9bd00091031c4e86b0299d29ed2d5b16ac6f0ad0a",
+      "host": "keybase.io",
+      "kid": "012079bcaaa348545cc1e0d3ed42a9bd00091031c4e86b0299d29ed2d5b16ac6f0ad0a",
+      "uid": "fc43191c25335a71b2ef39cd2743c819",
+      "username": "jvanvugt"
+    },
+    "merkle_root": {
+      "ctime": 1508491499,
+      "hash": "1e303a4c11dc41c6c7aaf3e51af02a5d43c7ad19b7e645b1223a669f946b7c529c470f7992070bf0ec3f32e779b435839c497839f1bb48aae10cc9c756c5ee96",
+      "hash_meta": "12620f52dbef3932cd3c1d022dedf440819502c54ee4a8b97d9ffde269c767f1",
+      "seqno": 1607121
+    },
+    "service": {
+      "hostname": "jorisvanvugt.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1508491507,
+  "expire_in": 504576000,
+  "prev": "92525704ff5204955f0cdd66ec0798c71bedc97c5ecd4e49f9d54555f0c59c49",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgebyqo0hUXMHg0+1Cqb0ACRAxxOhrApnSntLVsWrG8K0Kp3BheWxvYWTFA0d7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNzliY2FhYTM0ODU0NWNjMWUwZDNlZDQyYTliZDAwMDkxMDMxYzRlODZiMDI5OWQyOWVkMmQ1YjE2YWM2ZjBhZDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNzliY2FhYTM0ODU0NWNjMWUwZDNlZDQyYTliZDAwMDkxMDMxYzRlODZiMDI5OWQyOWVkMmQ1YjE2YWM2ZjBhZDBhIiwidWlkIjoiZmM0MzE5MWMyNTMzNWE3MWIyZWYzOWNkMjc0M2M4MTkiLCJ1c2VybmFtZSI6Imp2YW52dWd0In0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTA4NDkxNDk5LCJoYXNoIjoiMWUzMDNhNGMxMWRjNDFjNmM3YWFmM2U1MWFmMDJhNWQ0M2M3YWQxOWI3ZTY0NWIxMjIzYTY2OWY5NDZiN2M1MjljNDcwZjc5OTIwNzBiZjBlYzNmMzJlNzc5YjQzNTgzOWM0OTc4MzlmMWJiNDhhYWUxMGNjOWM3NTZjNWVlOTYiLCJoYXNoX21ldGEiOiIxMjYyMGY1MmRiZWYzOTMyY2QzYzFkMDIyZGVkZjQ0MDgxOTUwMmM1NGVlNGE4Yjk3ZDlmZmRlMjY5Yzc2N2YxIiwic2Vxbm8iOjE2MDcxMjF9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiam9yaXN2YW52dWd0LmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzMifSwiY3RpbWUiOjE1MDg0OTE1MDcsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiOTI1MjU3MDRmZjUyMDQ5NTVmMGNkZDY2ZWMwNzk4YzcxYmVkYzk3YzVlY2Q0ZTQ5ZjlkNTQ1NTVmMGM1OWM0OSIsInNlcW5vIjo2LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQO/KMBfKGR3sCx9KtKV30D5RsvxhS/JUqtWHsPlo6XF8R0ymSIplbE7L3PeFog0c0ME7LJ1G5hA0oB9l6HVZ3w6oc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCBc1FqKOFB9TJLITsGRJLULqlZL/uzObv6Bt9xtVooKV6N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jvanvugt
+
+==================================================================
