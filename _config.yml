@@ -52,7 +52,7 @@ address:
   - line: Nijmegen, The Netherlands
 
 # Credits content
-credits: 'Kamer van Koophandel: 69124574'
+credits:
 
 # Build settings
 markdown: kramdown
